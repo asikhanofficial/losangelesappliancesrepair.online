@@ -1,0 +1,6 @@
+{
+  "name": "Los Angeles Appliances Repair",
+  "description": "Professional home appliance repair service in Los Angeles, CA. Expert repair for refrigerators, washers, dryers, dishwashers, ovens, stoves, ranges, and freezers. Call (833) 327-1076.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
